@@ -1,3 +1,5 @@
+
+
 CREATE DATABASE HostelManagement;
 
 USE HostelManagement;
